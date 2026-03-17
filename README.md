@@ -1,6 +1,6 @@
 # Lead Scraper
 
-A portfolio-ready lead generation tool for scraping public business directory results and exporting prospect lists to CSV.
+A lead generation tool for scraping public business directory results and exporting prospect lists to CSV.
 
 This is the kind of lightweight automation businesses actually pay for:
 
